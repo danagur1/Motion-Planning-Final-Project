@@ -6,7 +6,7 @@ The implementation is based on custom modifications of the discopygal Python pac
 Install following python packages: trimesh, PyQt5, rtree, python-fcl
 
 ## How to run the project?
-the file main contain all the tests for all the samples
+'main' file contain all the tests for all the samples
 
 You can use any scene file in .obj format. Every robot name must start with "robot" and every obstacle name must start 
 with "obstacle". Some example scenes are in the scenes directory.
